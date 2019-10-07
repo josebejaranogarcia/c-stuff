@@ -1,0 +1,4 @@
+DEBE COPIAR LA CARPETA PATOS EN EL DISCO DURO "C" con 
+el nombre "patos".
+
+Si no el juego no funcionara correctamente
